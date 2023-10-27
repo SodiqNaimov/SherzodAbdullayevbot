@@ -1,0 +1,1 @@
+msg_open_admins_panel = ["Quydagilardan birini tanlang 👇"]
